@@ -31,4 +31,6 @@ Infrarød fungerer ved at en LED blinker på en frekvens på 38 kHz, hurtigere e
 
 Alt
 
+![alt text](https://github.com/DDlabAU/INFRARED-Kommunikation/blob/master/Arduino-IR-Remote-Receiver-Tutorial-IR-Signal-Modulation.png)
+
 
