@@ -1,5 +1,7 @@
 # Infrarød Kommunikation
 
+Infrarød fungerer ved at en LED blinker på en frekvens på 38 kHz, hurtigere end øjet kan opfange. Disse blink bliver oversat til binary og kan indeholde data. 
+
 ## Ting du skal bruge:
 
 1x IR Sensor
@@ -18,9 +20,13 @@ IR-Sending sender et konstant NEC-formateret signal, 10 gange i sekundet.
 IR-Recieving modtager alle former for infrarøde signaler og poster dem i Serialmonitoren. Du kan også bruge dette program til at modtage signaler fra eventuelle IR-Fjernbetjeninger.
 
 
+
 ### IR-Remote
 
 IR-Remote programmet bruges til at afkode signaler fra en IR-Fjernbetjening, gemme dem, og derefter sende det ud igen. Du kan bruge dette program til at afkode hvilke typer Infrarød forskellige fjenbetjeninger sender ud.
+
+
+![alt text](https://github.com/DDlabAU/INFRARED-Kommunikation/blob/master/Arduino-IR-Remote-Receiver-Tutorial-IR-Signal-Modulation.png)
 
 
 ### [<<_TILBAGE_<<](README.md)
