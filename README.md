@@ -14,9 +14,7 @@ Der findes infrarødt lys overalt omkring os. Det er en del af lysspektrummet, m
 Infrarød fungerer ved at en LED blinker på en frekvens på 38 kHz, hurtigere end øjet kan opfange. Disse blink bliver oversat til binary og kan indeholde data. 
 
 #### Og til sidst en joke: 
-*Hvilken farve er det indvendige af en postkasse?*
-
-[svar](joke.md)
+*Hvilken farve er det indvendige af en postkasse?* -> [svar](joke.md)
 
 
 ![alt text](https://github.com/DDlabAU/INFRARED-Kommunikation/blob/master/Arduino-IR-Remote-Receiver-Tutorial-IR-Signal-Modulation.png)
