@@ -1,5 +1,5 @@
 # PIR-Sensor
-PIR-sensoren bruges til at registrerer beveægelse. Du kender den måske fra lyset i din garage der automatisk tænder når du kommer hjem, eller lysende i Schön bygningen der slukker hvis man ikke har bevæget sig i 10 minutter. Den er god at bruge da den er meget simpel og ikke kræver nogle eksterne biblioteker for at virke.
+PIR-sensoren bruges til at registrere beveægelse. Du kender den måske fra lyset i din garage der automatisk tænder når du kommer hjem, eller lysende i Schön bygningen der slukker hvis man ikke har bevæget sig i 10 minutter. Den er god at bruge da den er meget simpel og ikke kræver nogle eksterne biblioteker for at virke.
 
 PIR står for _Passive Infrared Sensor_. Grundlæggende set fungerer den ved at den måler infrarøde lysværdier i et rum. Hvis disse værdier ændrer sig udsender sensoren et signal. Rummets infrarøde værdier vil typisk ændrer sig hvis der er noget der bevæger sig. Dette er fordi bevægelsen reflekterer det infrarøde lys rundt i rummet på en ny måde end hvad sensoren havde målt.
 
