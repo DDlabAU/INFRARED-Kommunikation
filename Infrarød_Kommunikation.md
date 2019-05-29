@@ -21,4 +21,4 @@ IR-Recieving modtager alle former for infrarøde signaler og poster dem i Serial
 IR-Remote programmet bruges til at afkode signaler fra en IR-Fjernbetjening, gemme dem, og derefter sende det ud igen. Du kan bruge dette program til at afkode hvilke typer Infrarød forskellige fjenbetjeninger sender ud.
 
 
-### [TILBAGE](README.md)
+### [<<_TILBAGE_<<](README.md)
