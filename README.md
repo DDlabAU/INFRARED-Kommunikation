@@ -1,5 +1,5 @@
 # INFRARØDE LED'er, INFRARØDE Sensorer, INFRARØD-Kommunikation & PIR Sensor
-Dette repository beskriver hvordan man kan sende og modtage signaler ved hjælp af en Infrarød LED. Derudover beskrives der hvorledes man kan afkode signalet fra en fjernbetjening der bruger Infrarød.
+Dette repository er en guide til All-Things-Infrarød! Der beskrives hvordan man kan sende og modtage signaler ved hjælp af en Infrarød LED samt hvorledes man kan afkode signalet fra en fjernbetjening der bruger Infrarød. Derudover gennemgås der også hvordan en PIR sensor virker og hvordan man kan bruge den.
 
 Læs mere om specifikke Infrarøde teknologier på følgende sider:
 
