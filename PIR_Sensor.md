@@ -17,7 +17,9 @@ Start med at forbind PIR-Sensoren til Arduinoen som illustreret på billedet ned
 
 Derefter upload koden til din Arduino. Den findes i github mappen til dette Repository. Giv eventuelt koden et kort kig, så du er med på hvordan den virker. 
 
-Nu skulle PIR-Sensoren i princippet fungere! En væsentlig detalje du skal være opmærksom på er hvordan sensoren er indstillet.
+Nu skulle PIR-Sensoren i princippet fungere! Hvis sensoren registrerer bevægelse sender den et HIGH signal til *PIN 2* i Arduinoen. I koden skal du så bare bruge et *IF-Statement* til at arbejde videre med det.
+
+Hvis du oplever problemer med sensoren kan det være du skal prøve at indstille den anderledes.
 
 ## Indstilling af PIR-Sensorer
 For at indstille PIR-Sensoren skal du bruge de to skruer på siden af sensoren. Den ene bruges til at justere sensitiviteten, den anden bruges til at justere Time delayet. 
