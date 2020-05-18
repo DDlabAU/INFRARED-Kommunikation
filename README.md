@@ -1,3 +1,8 @@
+<p float="center">
+  <img src="infrared2.jpg" width="400" />
+  <img src="pir.jpg" width="400" /> 
+</p>
+
 # INFRARØDE LED'er, INFRARØDE Sensorer, INFRARØD-Kommunikation & PIR Sensor
 Dette repository er en guide til All-Things-Infrarød! Der beskrives hvordan man kan sende og modtage signaler ved hjælp af en Infrarød LED samt hvorledes man kan afkode signalet fra en fjernbetjening der bruger Infrarød. Derudover gennemgås der også hvordan en PIR sensor virker og hvordan man kan bruge den.
 
